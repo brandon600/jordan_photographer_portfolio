@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hamburger_menu_icon</title>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="320_02_02_Gallery_Hover" transform="translate(-287.000000, -34.000000)" fill="#EFEFEF">
+            <g id="Gallery_Header_Top_Mobile" transform="translate(16.000000, 26.000000)">
+                <g id="hamburger_menu_icon" transform="translate(271.000000, 8.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="16" height="2" rx="1"></rect>
+                    <rect id="Rectangle-Copy" x="6" y="7" width="10" height="2" rx="1"></rect>
+                    <rect id="Rectangle-Copy-2" x="0" y="14" width="16" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
